@@ -4,5 +4,4 @@ GRUPO PROGRAMACION - 2023
 Integrantes:
 •	Joaquín Dorgnach
 •	Otto Acosta
-•	Malvina Correa
 •	Daniel Varela
